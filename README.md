@@ -16,6 +16,12 @@ Here are my data sources:
 
 #### Data Dictionary
 
+|Column Name | Description |
+|------------|:------------|
+|sepal width | This is the sepal width |
+|sepal length | This is sepal Length |
+
+
 ### Data Processing
 
 what i did to explore data.
