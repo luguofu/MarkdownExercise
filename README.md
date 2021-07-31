@@ -24,9 +24,9 @@ Here are my data sources:
 
 #### Data Processing
 
-what i did to explore data.
-**Clean data**.   <br>
-***Missing data***.
+what i did to explore data.\
+**Clean data**.\
+***Missing data***.\
 
 ### Features
 1. StandardScaler on X feature
