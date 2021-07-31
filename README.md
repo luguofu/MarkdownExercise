@@ -22,7 +22,7 @@ Here are my data sources:
 |sepal length | This is sepal Length |
 
 
-### Data Processing
+#### Data Processing
 
 what i did to explore data.
 **Clean data**. <br>
@@ -34,7 +34,10 @@ what i did to explore data.
 3. Log transforem on Z feature
 
 ### Modelling
-
+```
+def calc_distance(a,b):
+  return a+b
+```
 ### Model Evaluation
 
 ### Results and Recommendations
