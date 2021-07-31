@@ -10,7 +10,7 @@ xxxxx
 
 ### Data Source
 Here are my data sources:
-* [flower data]()https://www.bbc.co.uk
+* [flower data](https://www.bbc.co.uk)
 * yyy Data
 * xxx Data
 
@@ -19,8 +19,8 @@ Here are my data sources:
 ### Data Processing
 
 what i did to explore data.
-Clean data. <br>
-Missing data.
+**Clean data**. <br>
+***Missing data***.
 
 ### Features
 1. StandardScaler on X feature
