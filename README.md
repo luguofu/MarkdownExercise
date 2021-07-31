@@ -26,7 +26,7 @@ Here are my data sources:
 
 what i did to explore data.\
 **Clean data**.\
-***Missing data***.\
+***Missing data***.
 
 ### Features
 1. StandardScaler on X feature
