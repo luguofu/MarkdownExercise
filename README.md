@@ -25,7 +25,7 @@ Here are my data sources:
 #### Data Processing
 
 what i did to explore data.
-**Clean data**.  <br>
+**Clean data**.   <br>
 ***Missing data***.
 
 ### Features
